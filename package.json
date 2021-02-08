@@ -1,0 +1,42 @@
+{
+  "name": "fcc-d3-project5",
+  "version": "1.0.0",
+  "description": "My solution for FreeCodeCamp \"Data Visualization Projects - Visualize Data with a Treemap Diagram\" project challenge",
+  "main": "scripts/script.js",
+  "scripts": {
+    "sass": "sass --watch scss/style.scss styles/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/fcc-d3-project5.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "typescript",
+    "sass",
+    "html5",
+    "d3",
+    "treemap",
+    "freecodecamp-project",
+    "d3-project"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/fcc-d3-project5/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/fcc-d3-project5#readme",
+  "devDependencies": {
+    "@types/d3": "^6.3.0",
+    "anymatch": "^3.1.1",
+    "babel-cli": "^6.26.0",
+    "braces": "^3.0.2",
+    "chokidar": "^3.5.1",
+    "eslint": "^7.18.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "micromatch": "^4.0.2"
+  }
+}

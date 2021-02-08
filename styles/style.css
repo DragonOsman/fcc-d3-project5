@@ -1,0 +1,41 @@
+html, body, div, legend, header {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  text-align: center;
+  background-color: #417092;
+}
+
+/* HTML5 display-role reset for older browsers */
+header {
+  display: block;
+}
+
+body {
+  line-height: 1;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
+body main {
+  position: relative;
+}
+body main .tile {
+  stroke: #fff;
+}
+body main div.tooltip {
+  position: absolute;
+  padding: 5px;
+  background-color: #747474;
+  border-radius: 10px;
+}
+body main div.legend-container {
+  background-color: #30526a;
+  padding-bottom: 8px;
+  margin-left: 461px;
+  margin-right: 460px;
+}
+
+/*# sourceMappingURL=style.css.map */
